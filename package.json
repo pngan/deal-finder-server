@@ -24,7 +24,7 @@
     "@nestjs/core": "^5.4.0",
     "@types/cheerio": "^0.22.10",
     "cheerio": "^1.0.0-rc.2",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "os": "^0.1.1",
     "reflect-metadata": "^0.1.12",
     "regression": "^2.0.1",
